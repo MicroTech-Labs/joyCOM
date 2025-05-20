@@ -1,2 +1,2 @@
-# MSX-SES-232
-MSX - Software Emulated Serial - 232
+# joystick - COM adapter for MSX computers
+Half duplex RS232 port, software driven via MSX joystick port.
